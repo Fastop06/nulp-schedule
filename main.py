@@ -39,7 +39,7 @@ load_dotenv(BASE_DIR / ".env")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8874178437:AAFFmlp4usbe7Mn1mhJE3oEJAk-xxNFwHzA")
 TIMEZONE_NAME = os.getenv("TIMEZONE", "Europe/Kyiv")
 DB_PATH = BASE_DIR / os.getenv("DATABASE_PATH", "schedule_bot.db")
-WEBAPP_URL = os.getenv("WEBAPP_URL", "https://temporary-spry-hawthorn-9nq9bj3.vercel.app")
+WEBAPP_URL = os.getenv("WEBAPP_URL", "https://fastop06.github.io/nulp-schedule/")
 
 DEFAULT_GROUP = "ШІ-11"
 DEFAULT_SUBGROUP = 1

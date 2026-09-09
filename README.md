@@ -4,8 +4,8 @@
 
 ---
 
-## 🌐 Web App (Vercel)
-* **Посилання на WebApp:** [https://temporary-spry-hawthorn-9nq9bj3.vercel.app](https://temporary-spry-hawthorn-9nq9bj3.vercel.app)
+## 🌐 Web App (GitHub Pages)
+* **Постійне посилання на WebApp:** [https://fastop06.github.io/nulp-schedule/](https://fastop06.github.io/nulp-schedule/)
 * Інтегровано безпосередньо в меню бота (кнопка `📱 Відкрити Web App`).
 
 ---
